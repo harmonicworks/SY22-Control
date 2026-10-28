@@ -2,7 +2,7 @@
 
 A browser editor for the **Yamaha SY22** vector synthesizer. It makes the inside of the machine visible: all 64 internal voices and 16 multis at a glance, every voice parameter on a knob (including the ones the SY22's own screens never show), and the level and detune vectors drawn out so you can see, and record, how a voice moves.
 
-**Use it:** open the page in Chrome or Edge (Safari has no Web MIDI). Everything runs in your browser; nothing is uploaded.
+**Use it:** [open SY22 Control](https://harmonicworks.org/SY22-Control/) in Chrome or Edge (Safari has no Web MIDI). Everything runs in your browser; nothing is uploaded.
 
 ## Status
 Personal project, built for my own studio and shared as-is under the MIT licence. Free to use, copy and change.
